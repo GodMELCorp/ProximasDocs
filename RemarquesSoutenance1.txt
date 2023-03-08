@@ -1,0 +1,13 @@
+Remarques Soutenance 1 :
+
+Ne pas mettre "table des matières" comme titre de plan de soutenance
+Ne pas mettre de couleurs sur les tableaus
+Il lit le rapport pendant la soutenance donc pas besoin de remettre ce qu'il y a dessus sur un PowerPoint
+Pour les changements de touches, mettre la même taille pour tous les textes (taille de la police)
+Uniformiser les graphismes du jeu (ici écran de game over pas en accord)
+Les PNJs flottent
+Montrer les écrans des deux ordinateurs pendant le multijoueur
+Si on rajoute des choses dans un rappel, ce n'est pas un rappel
+Ne pas faire de mixte entre français et anglais, QUE DU FRANÇAIS
+Indiquer le temps de paroles de chacun et qui dit quoi sur le plan de soutenance
+On a le droit de changer les prévisions prévues pour la prochaine soutenance (il faut le préciser à l'oral)
