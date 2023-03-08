@@ -11,3 +11,4 @@ Si on rajoute des choses dans un rappel, ce n'est pas un rappel
 Ne pas faire de mixte entre français et anglais, QUE DU FRANÇAIS
 Indiquer le temps de paroles de chacun et qui dit quoi sur le plan de soutenance
 On a le droit de changer les prévisions prévues pour la prochaine soutenance (il faut le préciser à l'oral)
+Ne pas donner les noms des fonctions et méthodes, juste expliquer comment ça marche
