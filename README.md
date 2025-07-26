@@ -5,7 +5,7 @@
 Ce dépôt contient l’ensemble des documents produits pendant le projet, notamment :
 
 - Rapports et cahier des charges
-- Plans et diaporamas de soutenances
+- Plans et diaporamas de soutenance
 - Consignes
 - Executables
 
@@ -21,7 +21,7 @@ Jury : Gollum
 
 - [Annexes](./Annexes) : Ressources complémentaires utilisées ou produites pendant le projet
 - [Consignes](./Consignes) : Consignes et grille d'évaluation du projet
-- [Executables](./Executables) : Fichiers exécutables des différentes soutenance
+- [Executables](./Executables) : Fichiers exécutables des différentes soutenances
 - [Latex](./Latex) : Sources LaTeX des rapports, présentations et autres documents
 - [PDF](./PDF) : Versions exportées au format PDF des rapports, présentations et autres documents
 - [Soutenances](./Soutenances) : Diaporamas, remarques et améliorations pour les soutenances
