@@ -1,7 +1,27 @@
-# Proximas
-Sauvegarde des documents pour le projet de S2 Proxima's Quest fait par la GodMEL Corporation.
+# ProximaDocs
 
-Jury : Gollum  
-Note Soutenance 1 : 16  
-Note Soutenance 2 : 15,4  
-Note Soutenance 3 : 17,8
+📁 ProximaDocs est le dépôt de sauvegarde des documents du projet Proxima's Quest, réalisé par la GodMEL Corporation.
+
+Ce dépôt contient l’ensemble des documents produits pendant le projet, notamment :
+
+- Rapports et cahier des charges
+- Plans et diaporamas de soutenances
+- Consignes
+- Executables
+
+## 📝 Notes de soutenances
+
+Jury : Gollum
+
+- Soutenance 1 : 16/20
+- Soutenance 2 : 15,4/20
+- Soutenance 3 : 17,8/20
+
+## 📂 Arborescence des dossiers
+
+- [Annexes](./Annexes) : Ressources complémentaires utilisées ou produites pendant le projet
+- [Consignes](./Consignes) : Consignes et grille d'évaluation du projet
+- [Executables](./Executables) : Fichiers exécutables des différentes soutenance
+- [Latex](./Latex) : Sources LaTeX des rapports, présentations et autres documents
+- [PDF](./PDF) : Versions exportées au format PDF des rapports, présentations et autres documents
+- [Soutenances](./Soutenances) : Diaporamas, remarques et améliorations pour les soutenances
